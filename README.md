@@ -24,7 +24,11 @@
   ## Description
   In this project we were tasked with creating a backend database for an e commerce site that will store information about products, broken down by categories and tags. This structure required us to create 4 different tables, all with primary key relationships that link the tables together. While we did not create a front end page for this project, this structure does enable the website to display content based on a variety of user inputs. They can bring up products broken down by categories or tags, which enables a better user experience. 
   ## Installation
-  In order for this app to work, the user will need to install the 4 npm packages listed below. Express, mySQL2, sequelize, and dotenv. The best way to do this would be to run the steps below. 
+  In order for this app to work, the user will need to install the 4 npm packages listed below. 
+  
+  Express, mySQL2, sequelize, and dotenv. 
+  
+  The best way to do this would be to run the steps below. 
 
   -- Run "npm init -y" to initialize npm on this project
 
