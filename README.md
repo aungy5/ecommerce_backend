@@ -1,6 +1,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
   # E-Commerce Backend
+  
+  Github Repository Link => https://github.com/aungy5/ecommerce_backend
+  
+  App Demo Video => https://drive.google.com/file/d/1CJ_JjYnQ2GxqqWeCXtM8RKFgkMpKDq_M/view?usp=sharing
+  
   ## Table of Contents
 - [Description](#description)
 
